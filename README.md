@@ -19,7 +19,7 @@ This is a basic Django project for managing a product inventory. The project is 
 ### 1. Clonar el repositorio / Clone the repository
 
 ```bash
-git clone https://github.com/tu-usuario/proyecto-inventario.git
+git clone https://github.com/jahurtadod/example_django.git
 cd example_django
 ```
 
